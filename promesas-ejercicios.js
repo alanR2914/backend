@@ -1,0 +1,7 @@
+Promise.resolve(20)
+.then()
+.then()
+.then()
+.then()
+.then()
+.then()
