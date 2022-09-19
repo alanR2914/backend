@@ -22,8 +22,8 @@ class Usuario {
     }
     getBookNames(){
         let arr = [];
-        for (let i = 0; i <= this.books.length -1; i++){
-            arr.push(this.books[i].name);
+        for (let i = 0; i <= this.books.length - 1; i++){
+            arr.push(this.books[i].nombre);
         }
         console.log(arr);
     }
